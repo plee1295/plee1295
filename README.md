@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @plee1295
-- 🏢 I work at 🍀[Lucky Orange](https://www.luckyorange.com/)🍊 as a software developer 
+- 🏢 I work at [Lucky Orange](https://www.luckyorange.com/) as a software developer 🍊
 
 <!---
 plee1295/plee1295 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
